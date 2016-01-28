@@ -1,6 +1,12 @@
-#Code Book
+# Code Book
 
-The outpurt data set is derived from the “Human Activity Recognition Using Smartphones Dataset v1.0” available from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. The data set contains the results of an experiment conducted by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Onetoto to measure the body movements of 30 test subjects using a Samsung Galaxy S II smartphone. The subjects performed 6 different activities:WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+The outpurt data set is derived from the “Human Activity Recognition Using Smartphones Dataset v1.0” available 
+from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
+The data set contains the results of an experiment conducted by:
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Onetoto 
+
+to measure the body movements of 30 test subjects using a Samsung Galaxy S II smartphone. 
+The subjects performed 6 different activities:WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 
 The unpacked dataset has the following contents:
