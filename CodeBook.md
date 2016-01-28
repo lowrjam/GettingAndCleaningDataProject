@@ -1,4 +1,4 @@
-# Code Book
+## Code Book
 
 The outpurt data set is derived from the “Human Activity Recognition Using Smartphones Dataset v1.0” available 
 from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
