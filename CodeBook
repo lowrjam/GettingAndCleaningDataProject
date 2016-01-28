@@ -28,13 +28,19 @@ The unpacked dataset has the following contents:
 'test/y_test.txt': Test labels.
 
 
-The names of the final data set’s 88 columns are given below. These were derived from the original data sets which is described more fully in ./data/UCI HAR data/features.txt. The original test and train data sets contained 10299 combined observations across 30 subjects and 6 activities. The final dataset takes the mean of all the mean and standard deviation measurements. That is, for 30 subjects across 6 different activities, 180 observations containing the mean values for the mean and standard deviation measurements are provided.
+The names of the final data set’s 88 columns are given below. These were derived from the original data sets which is described more 
+fully in ./data/UCI HAR data/features.txt. 
 
-column numbers and names of finalDataSet.txt
+The original test and train data sets contained 10299 combined observations across 30 subjects and 6 activities. 
+The final dataset takes the mean of all the mean and standard deviation measurements. 
+That is, for 30 subjects across 6 different activities, 180 observations containing the mean values for the mean and 
+standard deviation measurements are provided.
 
-[1] "subject"
-[2] "activityname"
-[3] "timebodyaccmeanx"
+column numbers and names and descriptions of finalDataSet.txt
+
+[1] "subject"                  -- identifies the subject who who performed the activities
+[2] "activityname"             -- the names of the activities
+[3] "timebodyaccmeanx"         -- the remaining columns are the means of the indicated measurements for the subject/activity pair.
 [4] "timebodyaccmeany"
 [5] "timebodyaccmeanz"
 [6] "timebodyaccstdx"
